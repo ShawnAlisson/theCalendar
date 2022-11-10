@@ -42,18 +42,19 @@ struct SimpleEntry: TimelineEntry {
 
 struct CalendarWidgetEntryView : View {
     var entry: Provider.Entry
+    var nowDate: Date = Date()
 
     var body: some View {
         VStack{
            
-            Text(entry.date.asPersianDay()).font(Font.system(size: 14, weight: .light))
+            Text(nowDate.asPersianDay()).font(Font.system(size: 14, weight: .light))
             HStack{
                 
-                Text(entry.date.asPersianMonth()).font(Font.system(size: 14))
-                Text(entry.date.asPersianDate()).font(Font.system(size: 72, weight: .bold))
+                Text(nowDate.asPersianMonth()).font(Font.system(size: 14))
+                Text(nowDate.asPersianDate()).font(Font.system(size: 72, weight: .bold))
             }
             
-            Text(entry.date.asEngMonth()).font(Font.system(size: 14, weight: .light))
+            Text(nowDate.asEngMonth()).font(Font.system(size: 14, weight: .light))
               
         }.padding()
         
