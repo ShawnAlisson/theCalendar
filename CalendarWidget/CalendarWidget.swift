@@ -48,13 +48,15 @@ struct CalendarWidgetEntryView : View {
         VStack{
            
             Text(nowDate.asPersianDay()).font(Font.system(size: 14, weight: .light))
+            Text(nowDate.asPersianDate()).font(Font.system(size: 72, weight: .bold)).minimumScaleFactor(0.5)
             HStack{
                 
                 Text(nowDate.asPersianMonth()).font(Font.system(size: 14))
-                Text(nowDate.asPersianDate()).font(Font.system(size: 72, weight: .bold))
+                Text(nowDate.asEngMonth()).font(Font.system(size: 14, weight: .light))
+                
             }
             
-            Text(nowDate.asEngMonth()).font(Font.system(size: 14, weight: .light))
+            
               
         }.padding()
         
