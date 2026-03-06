@@ -1,0 +1,40 @@
+"help_toggle_sidebar" = "Show or hide sidebar";
+"help_calendar" = "Calendar";
+"help_add_event" = "Add event";
+"search_events_placeholder" = "Search events";
+"today_button" = "Today";
+
+"view_mode_day" = "Day";
+"view_mode_week" = "Week";
+"view_mode_month" = "Month";
+"view_mode_year" = "Year";
+
+"new_event_default_title" = "New Event";
+"calendars_section_title" = "Calendars";
+"no_events_text" = "No events";
+"calendar_access_required" = "Calendar access is required.";
+"open_settings_button" = "Open Settings";
+
+"new_event_title" = "New Event";
+"event_title_placeholder" = "Title";
+"all_day_toggle" = "All-day";
+"starts_label" = "Starts";
+"ends_label" = "Ends";
+"calendar_label" = "Calendar";
+"notes_placeholder" = "Notes";
+"cancel_button" = "Cancel";
+"add_button" = "Add";
+"all_day_text" = "All-day";
+
+"language_system" = "System";
+"language_english" = "English";
+"language_persian" = "Persian";
+"settings_general_section" = "General";
+"settings_language_label" = "Language";
+"close_button" = "Close";
+"edit_button" = "Edit";
+"delete_button" = "Delete";
+"save_button" = "Save";
+"edit_event_title" = "Edit Event";
+"delete_event_confirm_title" = "Delete Event?";
+"delete_event_confirm_message" = "This event will be permanently removed.";

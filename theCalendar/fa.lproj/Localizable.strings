@@ -1,0 +1,40 @@
+"help_toggle_sidebar" = "نمایش یا پنهان کردن نوار کناری";
+"help_calendar" = "تقویم";
+"help_add_event" = "افزودن رویداد";
+"search_events_placeholder" = "جستجوی رویدادها";
+"today_button" = "امروز";
+
+"view_mode_day" = "روز";
+"view_mode_week" = "هفته";
+"view_mode_month" = "ماه";
+"view_mode_year" = "سال";
+
+"new_event_default_title" = "رویداد جدید";
+"calendars_section_title" = "تقویم‌ها";
+"no_events_text" = "رویدادی وجود ندارد";
+"calendar_access_required" = "دسترسی به تقویم لازم است.";
+"open_settings_button" = "باز کردن تنظیمات";
+
+"new_event_title" = "رویداد جدید";
+"event_title_placeholder" = "عنوان";
+"all_day_toggle" = "تمام‌روز";
+"starts_label" = "شروع";
+"ends_label" = "پایان";
+"calendar_label" = "تقویم";
+"notes_placeholder" = "یادداشت";
+"cancel_button" = "انصراف";
+"add_button" = "افزودن";
+"all_day_text" = "تمام‌روز";
+
+"language_system" = "سیستم";
+"language_english" = "انگلیسی";
+"language_persian" = "فارسی";
+"settings_general_section" = "عمومی";
+"settings_language_label" = "زبان";
+"close_button" = "بستن";
+"edit_button" = "ویرایش";
+"delete_button" = "حذف";
+"save_button" = "ذخیره";
+"edit_event_title" = "ویرایش رویداد";
+"delete_event_confirm_title" = "حذف رویداد؟";
+"delete_event_confirm_message" = "این رویداد برای همیشه حذف می‌شود.";
